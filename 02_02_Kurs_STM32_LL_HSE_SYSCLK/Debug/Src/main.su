@@ -1,0 +1,12 @@
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1254:22:LL_RCC_HSE_EnableBypass	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1274:22:LL_RCC_HSE_Enable	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1294:26:LL_RCC_HSE_IsReady	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1684:22:LL_RCC_SetSysClkSource	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1699:26:LL_RCC_GetSysClkSource	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:1139:22:LL_IOP_GRP1_EnableClock	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:283:22:LL_GPIO_SetPinMode	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:351:22:LL_GPIO_SetPinOutputType	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:422:22:LL_GPIO_SetPinSpeed	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:491:22:LL_GPIO_SetPinPull	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/02_02_Kurs_STM32_LL_HSE_SYSCLK/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:915:22:LL_GPIO_TogglePin	24	static
+../Src/main.c:27:5:main	8	static
