@@ -1,0 +1,4 @@
+D:/STM32_Workspace_Kurs_Low_Layer/03_04_Kurs_STM32_LL_EXTI/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:915:22:LL_GPIO_TogglePin	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/03_04_Kurs_STM32_LL_EXTI/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_exti.h:1145:26:LL_EXTI_IsActiveFallingFlag_0_31	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/03_04_Kurs_STM32_LL_EXTI/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_exti.h:1247:22:LL_EXTI_ClearFallingFlag_0_31	16	static
+../Src/stm32g0xx_it.c:10:6:EXTI4_15_IRQHandler	8	static
