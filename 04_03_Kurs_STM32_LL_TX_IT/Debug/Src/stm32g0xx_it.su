@@ -1,0 +1,4 @@
+D:/STM32_Workspace_Kurs_Low_Layer/04_03_Kurs_STM32_LL_TX_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:3019:26:LL_USART_IsActiveFlag_TXE_TXFNF	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_03_Kurs_STM32_LL_TX_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:3938:26:LL_USART_IsEnabledIT_TXE_TXFNF	16	static
+../Src/stm32g0xx_it.c:10:6:SysTick_Handler	8	static
+../Src/stm32g0xx_it.c:15:6:USART2_IRQHandler	8	static

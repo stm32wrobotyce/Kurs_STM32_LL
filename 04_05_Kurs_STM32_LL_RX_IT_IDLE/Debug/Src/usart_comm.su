@@ -1,0 +1,2 @@
+D:/STM32_Workspace_Kurs_Low_Layer/04_05_Kurs_STM32_LL_RX_IT_IDLE/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:4253:25:LL_USART_ReceiveData8	16	static
+../Src/usart_comm.c:15:6:usart_it_rx_not_empty_callback	16	static

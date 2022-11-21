@@ -1,0 +1,8 @@
+D:/STM32_Workspace_Kurs_Low_Layer/04_03_Kurs_STM32_LL_TX_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:3019:26:LL_USART_IsActiveFlag_TXE_TXFNF	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_03_Kurs_STM32_LL_TX_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:3502:22:LL_USART_EnableIT_TXE_TXFNF	32	static,ignoring_inline_asm
+D:/STM32_Workspace_Kurs_Low_Layer/04_03_Kurs_STM32_LL_TX_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:3719:22:LL_USART_DisableIT_TXE_TXFNF	32	static,ignoring_inline_asm
+D:/STM32_Workspace_Kurs_Low_Layer/04_03_Kurs_STM32_LL_TX_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:4276:22:LL_USART_TransmitData8	16	static
+../Src/usart_comm.c:18:6:transmit_task_init	8	static
+../Src/usart_comm.c:23:6:transmit_task_process	8	static
+../Src/usart_comm.c:33:6:transmit_data	24	static
+../Src/usart_comm.c:44:6:usart_it_tx_empty_callback	8	static
