@@ -1,0 +1,10 @@
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:4151:22:LL_USART_EnableDMAReq_TX	32	static,ignoring_inline_asm
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_usart.h:4221:26:LL_USART_DMA_GetRegAddr	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:500:22:LL_DMA_EnableChannel	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:520:22:LL_DMA_DisableChannel	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:628:26:LL_DMA_GetDataTransferDirection	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:944:22:LL_DMA_SetDataLength	32	static
+D:/STM32_Workspace_Kurs_Low_Layer/04_06_Kurs_STM32_LL_TX_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:997:22:LL_DMA_ConfigAddresses	32	static
+../Src/usart_comm.c:18:6:transmit_task_init	8	static
+../Src/usart_comm.c:23:6:transmit_task_process	24	static
+../Src/usart_comm.c:37:6:DMA1_transmit_complete_callback	8	static
