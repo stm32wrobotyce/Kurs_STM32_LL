@@ -1,0 +1,4 @@
+D:/STM32_Workspace_Kurs_Low_Layer/05_02_Kurs_STM32_LL_Base_Timer_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:915:22:LL_GPIO_TogglePin	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/05_02_Kurs_STM32_LL_Base_Timer_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_tim.h:4265:22:LL_TIM_ClearFlag_UPDATE	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/05_02_Kurs_STM32_LL_Base_Timer_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_tim.h:4276:26:LL_TIM_IsActiveFlag_UPDATE	16	static
+../Src/stm32g0xx_it.c:10:6:TIM2_IRQHandler	8	static
