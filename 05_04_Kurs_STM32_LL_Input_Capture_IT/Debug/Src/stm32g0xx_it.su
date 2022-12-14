@@ -1,0 +1,5 @@
+D:/STM32_Workspace_Kurs_Low_Layer/05_04_Kurs_STM32_LL_Input_Capture_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_tim.h:1829:22:LL_TIM_SetCounter	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/05_04_Kurs_STM32_LL_Input_Capture_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_tim.h:3225:26:LL_TIM_IC_GetCaptureCH1	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/05_04_Kurs_STM32_LL_Input_Capture_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_tim.h:4287:22:LL_TIM_ClearFlag_CC1	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/05_04_Kurs_STM32_LL_Input_Capture_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_tim.h:4298:26:LL_TIM_IsActiveFlag_CC1	16	static
+../Src/stm32g0xx_it.c:12:6:TIM2_IRQHandler	8	static
