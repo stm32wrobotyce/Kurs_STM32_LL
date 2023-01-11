@@ -1,0 +1,2 @@
+D:/STM32_Workspace_Kurs_Low_Layer/06_03_Kurs_STM32_LL_ADC_Single_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_adc.h:4460:26:LL_ADC_REG_ReadConversionData12	16	static
+../Src/adc.c:17:6:adc_conversion_complete_callback	8	static

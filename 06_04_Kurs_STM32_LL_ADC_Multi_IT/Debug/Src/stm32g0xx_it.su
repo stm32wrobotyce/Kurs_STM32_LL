@@ -1,0 +1,6 @@
+D:/STM32_Workspace_Kurs_Low_Layer/06_04_Kurs_STM32_LL_ADC_Multi_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_adc.h:4565:26:LL_ADC_IsActiveFlag_EOC	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_04_Kurs_STM32_LL_ADC_Multi_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_adc.h:4576:26:LL_ADC_IsActiveFlag_EOS	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_04_Kurs_STM32_LL_ADC_Multi_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_adc.h:4678:22:LL_ADC_ClearFlag_EOC	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_04_Kurs_STM32_LL_ADC_Multi_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_adc.h:4689:22:LL_ADC_ClearFlag_EOS	16	static
+../Src/stm32g0xx_it.c:10:6:SysTick_Handler	8	static
+../Src/stm32g0xx_it.c:15:6:ADC_COMP_IRQHandler	8	static
