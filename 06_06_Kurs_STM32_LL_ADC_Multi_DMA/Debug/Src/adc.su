@@ -1,0 +1,7 @@
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_adc.h:1628:26:LL_ADC_DMA_GetRegAddr	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:500:22:LL_DMA_EnableChannel	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:628:26:LL_DMA_GetDataTransferDirection	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:944:22:LL_DMA_SetDataLength	32	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:997:22:LL_DMA_ConfigAddresses	32	static
+../Src/adc.c:19:6:adc_start_dma_conversion	24	static
+../Src/adc.c:27:6:dma_transfer_complete_callback	16	static

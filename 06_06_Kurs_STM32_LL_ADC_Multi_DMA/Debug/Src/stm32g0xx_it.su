@@ -1,0 +1,4 @@
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:1455:26:LL_DMA_IsActiveFlag_TC1	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/06_06_Kurs_STM32_LL_ADC_Multi_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dma.h:1807:22:LL_DMA_ClearFlag_TC1	16	static
+../Src/stm32g0xx_it.c:10:6:SysTick_Handler	8	static
+../Src/stm32g0xx_it.c:15:6:DMA_Channel1_IRQHandler	8	static
