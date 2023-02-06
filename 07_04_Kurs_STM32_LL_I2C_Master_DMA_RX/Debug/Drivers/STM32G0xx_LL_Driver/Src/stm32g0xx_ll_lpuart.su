@@ -1,0 +1,10 @@
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lpuart.h:525:26:LL_LPUART_IsEnabled	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lpuart.h:917:22:LL_LPUART_SetPrescaler	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lpuart.h:954:22:LL_LPUART_SetStopBitsLength	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lpuart.h:1258:22:LL_LPUART_SetHWFlowCtrl	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lpuart.h:1370:22:LL_LPUART_SetBaudRate	64	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:678:22:LL_APB1_GRP1_ForceReset	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_04_Kurs_STM32_LL_I2C_Master_DMA_RX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:746:22:LL_APB1_GRP1_ReleaseReset	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lpuart.c:129:13:LL_LPUART_DeInit	24	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lpuart.c:177:13:LL_LPUART_Init	32	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lpuart.c:281:6:LL_LPUART_StructInit	16	static

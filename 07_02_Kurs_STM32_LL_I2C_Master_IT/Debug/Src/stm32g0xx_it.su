@@ -1,0 +1,10 @@
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1309:26:LL_I2C_IsEnabledIT_TX	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1342:26:LL_I2C_IsEnabledIT_RX	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1430:22:LL_I2C_DisableIT_STOP	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1441:26:LL_I2C_IsEnabledIT_STOP	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1565:26:LL_I2C_IsActiveFlag_TXIS	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1578:26:LL_I2C_IsActiveFlag_RXNE	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1617:26:LL_I2C_IsActiveFlag_STOP	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_i2c.h:1774:22:LL_I2C_ClearFlag_STOP	16	static
+../Src/stm32g0xx_it.c:10:6:SysTick_Handler	8	static
+../Src/stm32g0xx_it.c:15:6:I2C1_IRQHandler	8	static

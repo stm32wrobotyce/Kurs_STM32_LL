@@ -1,0 +1,13 @@
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lptim.h:371:26:LL_LPTIM_IsEnabled	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lptim.h:1123:22:LL_LPTIM_ClearFlag_CMPOK	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lptim.h:1135:26:LL_LPTIM_IsActiveFlag_CMPOK	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lptim.h:1146:22:LL_LPTIM_ClearFlag_ARROK	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_lptim.h:1158:26:LL_LPTIM_IsActiveFlag_ARROK	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:678:22:LL_APB1_GRP1_ForceReset	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:746:22:LL_APB1_GRP1_ReleaseReset	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:2011:22:LL_RCC_SetLPTIMClockSource	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:2262:26:LL_RCC_GetLPTIMClockSource	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lptim.c:95:13:LL_LPTIM_DeInit	24	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lptim.c:128:6:LL_LPTIM_StructInit	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lptim.c:147:13:LL_LPTIM_Init	32	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_lptim.c:190:6:LL_LPTIM_Disable	80	static,ignoring_inline_asm

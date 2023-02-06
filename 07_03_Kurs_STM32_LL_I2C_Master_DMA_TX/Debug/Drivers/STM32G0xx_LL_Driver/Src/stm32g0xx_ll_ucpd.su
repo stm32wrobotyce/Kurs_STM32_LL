@@ -1,0 +1,8 @@
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_ucpd.h:358:22:LL_UCPD_Disable	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:467:22:LL_APB1_GRP1_EnableClock	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:609:22:LL_APB1_GRP1_DisableClock	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:678:22:LL_APB1_GRP1_ForceReset	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:746:22:LL_APB1_GRP1_ReleaseReset	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_ucpd.c:79:13:LL_UCPD_DeInit	32	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_ucpd.c:128:13:LL_UCPD_Init	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_ucpd.c:160:6:LL_UCPD_StructInit	16	static

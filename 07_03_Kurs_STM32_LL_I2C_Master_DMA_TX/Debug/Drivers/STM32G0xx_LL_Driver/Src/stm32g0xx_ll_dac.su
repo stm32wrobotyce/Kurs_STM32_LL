@@ -1,0 +1,6 @@
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_dac.h:1342:26:LL_DAC_IsEnabled	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:678:22:LL_APB1_GRP1_ForceReset	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_03_Kurs_STM32_LL_I2C_Master_DMA_TX/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:746:22:LL_APB1_GRP1_ReleaseReset	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_dac.c:142:13:LL_DAC_DeInit	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_dac.c:181:13:LL_DAC_Init	32	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_dac.c:261:6:LL_DAC_StructInit	16	static

@@ -1,0 +1,3 @@
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:678:22:LL_APB1_GRP1_ForceReset	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/07_02_Kurs_STM32_LL_I2C_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_bus.h:746:22:LL_APB1_GRP1_ReleaseReset	16	static
+../Drivers/STM32G0xx_LL_Driver/Src/stm32g0xx_ll_pwr.c:55:13:LL_PWR_DeInit	8	static
