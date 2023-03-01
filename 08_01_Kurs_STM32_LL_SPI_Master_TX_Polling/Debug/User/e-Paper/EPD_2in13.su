@@ -1,0 +1,14 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:776:26:LL_GPIO_IsInputPinSet	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/e-Paper/EPD_2in13.c:71:13:EPD_2IN13_Reset	8	static
+../User/e-Paper/EPD_2in13.c:86:13:EPD_2IN13_SendCommand	16	static
+../User/e-Paper/EPD_2in13.c:99:13:EPD_2IN13_SendData	16	static
+../User/e-Paper/EPD_2in13.c:111:6:EPD_2IN13_ReadBusy	8	static
+../User/e-Paper/EPD_2in13.c:124:13:EPD_2IN13_TurnOnDisplay	8	static
+../User/e-Paper/EPD_2in13.c:134:13:EPD_2IN13_SetWindows	24	static
+../User/e-Paper/EPD_2in13.c:147:13:EPD_2IN13_SetCursor	16	static
+../User/e-Paper/EPD_2in13.c:162:6:EPD_2IN13_Init	32	static
+../User/e-Paper/EPD_2in13.c:209:6:EPD_2IN13_Clear	16	static
+../User/e-Paper/EPD_2in13.c:230:6:EPD_2IN13_Display	32	static
+../User/e-Paper/EPD_2in13.c:251:6:EPD_2IN13_Sleep	8	static

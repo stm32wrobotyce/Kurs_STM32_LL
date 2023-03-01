@@ -1,0 +1,13 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:776:26:LL_GPIO_IsInputPinSet	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/e-Paper/EPD_7in5_HD.c:38:13:EPD_7IN5_HD_Reset	8	static
+../User/e-Paper/EPD_7in5_HD.c:53:13:EPD_7IN5_HD_SendCommand	16	static
+../User/e-Paper/EPD_7in5_HD.c:66:13:EPD_7IN5_HD_SendData	16	static
+../User/e-Paper/EPD_7in5_HD.c:78:13:EPD_7IN5_HD_WaitUntilIdle	8	static
+../User/e-Paper/EPD_7in5_HD.c:94:6:EPD_7IN5_HD_Init	8	static
+../User/e-Paper/EPD_7in5_HD.c:164:6:EPD_7IN5_HD_Clear	24	static
+../User/e-Paper/EPD_7in5_HD.c:194:6:EPD_7IN5_HD_Display	40	static
+../User/e-Paper/EPD_7in5_HD.c:222:6:EPD_7IN5_HD_WritePicture	40	static
+../User/e-Paper/EPD_7in5_HD.c:255:6:EPD_7IN5_HD_DisplayImage	40	static
+../User/e-Paper/EPD_7in5_HD.c:288:6:EPD_7IN5_HD_Sleep	8	static

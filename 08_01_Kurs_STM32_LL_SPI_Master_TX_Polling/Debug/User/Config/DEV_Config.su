@@ -1,0 +1,5 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/Config/DEV_Config.c:34:6:DEV_SPI_WriteByte	16	static
+../User/Config/DEV_Config.c:39:5:DEV_Module_Init	8	static
+../User/Config/DEV_Config.c:47:6:DEV_Module_Exit	8	static

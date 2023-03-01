@@ -1,0 +1,16 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:776:26:LL_GPIO_IsInputPinSet	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/e-Paper/EPD_3in7.c:98:13:EPD_3IN7_Reset	8	static
+../User/e-Paper/EPD_3in7.c:113:13:EPD_3IN7_SendCommand	16	static
+../User/e-Paper/EPD_3in7.c:126:13:EPD_3IN7_SendData	16	static
+../User/e-Paper/EPD_3in7.c:134:13:EPD_3IN7_ReadBusy_HIGH	16	static
+../User/e-Paper/EPD_3in7.c:149:6:EPD_3IN7_Load_LUT	24	static
+../User/e-Paper/EPD_3in7.c:172:6:EPD_3IN7_4Gray_Init	8	static
+../User/e-Paper/EPD_3in7.c:250:6:EPD_3IN7_1Gray_Init	8	static
+../User/e-Paper/EPD_3in7.c:328:6:EPD_3IN7_4Gray_Clear	24	static
+../User/e-Paper/EPD_3in7.c:377:6:EPD_3IN7_1Gray_Clear	16	static
+../User/e-Paper/EPD_3in7.c:405:6:EPD_3IN7_4Gray_Display	40	static
+../User/e-Paper/EPD_3in7.c:519:6:EPD_3IN7_1Gray_Display	32	static
+../User/e-Paper/EPD_3in7.c:546:6:EPD_3IN7_1Gray_Display_Part	48	static
+../User/e-Paper/EPD_3in7.c:578:6:EPD_3IN7_Sleep	8	static

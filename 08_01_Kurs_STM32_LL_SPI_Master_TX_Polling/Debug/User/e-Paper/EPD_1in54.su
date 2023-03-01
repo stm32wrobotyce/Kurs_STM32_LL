@@ -1,0 +1,14 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:776:26:LL_GPIO_IsInputPinSet	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/e-Paper/EPD_1in54.c:108:13:EPD_1IN54_Reset	8	static
+../User/e-Paper/EPD_1in54.c:123:13:EPD_1IN54_SendCommand	16	static
+../User/e-Paper/EPD_1in54.c:136:13:EPD_1IN54_SendData	16	static
+../User/e-Paper/EPD_1in54.c:148:6:EPD_1IN54_ReadBusy	8	static
+../User/e-Paper/EPD_1in54.c:161:13:EPD_1IN54_SetWindow	24	static
+../User/e-Paper/EPD_1in54.c:178:13:EPD_1IN54_SetCursor	16	static
+../User/e-Paper/EPD_1in54.c:192:13:EPD_1IN54_TurnOnDisplay	8	static
+../User/e-Paper/EPD_1in54.c:206:6:EPD_1IN54_Init	32	static
+../User/e-Paper/EPD_1in54.c:252:6:EPD_1IN54_Clear	16	static
+../User/e-Paper/EPD_1in54.c:272:6:EPD_1IN54_Display	40	static
+../User/e-Paper/EPD_1in54.c:296:6:EPD_1IN54_Sleep	8	static

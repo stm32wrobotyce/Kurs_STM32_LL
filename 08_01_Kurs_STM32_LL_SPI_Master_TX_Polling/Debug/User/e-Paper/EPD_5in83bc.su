@@ -1,0 +1,13 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:776:26:LL_GPIO_IsInputPinSet	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/e-Paper/EPD_5in83bc.c:92:13:EPD_5IN83BC_Reset	8	static
+../User/e-Paper/EPD_5in83bc.c:107:13:EPD_5IN83BC_SendCommand	16	static
+../User/e-Paper/EPD_5in83bc.c:120:13:EPD_5IN83BC_SendData	16	static
+../User/e-Paper/EPD_5in83bc.c:132:6:EPD_5IN83BC_ReadBusy	16	static
+../User/e-Paper/EPD_5in83bc.c:148:13:EPD_5IN83BC_TurnOnDisplay	8	static
+../User/e-Paper/EPD_5in83bc.c:162:6:EPD_5IN83BC_Init	8	static
+../User/e-Paper/EPD_5in83bc.c:209:6:EPD_5IN83BC_Clear	24	static
+../User/e-Paper/EPD_5in83bc.c:231:6:EPD_5IN83BC_Display	40	static
+../User/e-Paper/EPD_5in83bc.c:277:6:EPD_5IN83BC_DisplayHalfScreen	40	static
+../User/e-Paper/EPD_5in83bc.c:331:6:EPD_5IN83BC_Sleep	8	static

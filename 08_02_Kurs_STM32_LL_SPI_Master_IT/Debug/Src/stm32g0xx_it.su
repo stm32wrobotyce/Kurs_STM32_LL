@@ -1,0 +1,6 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_02_Kurs_STM32_LL_SPI_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_spi.h:905:26:LL_SPI_IsActiveFlag_RXNE	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_02_Kurs_STM32_LL_SPI_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_spi.h:916:26:LL_SPI_IsActiveFlag_TXE	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_02_Kurs_STM32_LL_SPI_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_spi.h:1164:26:LL_SPI_IsEnabledIT_RXNE	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_02_Kurs_STM32_LL_SPI_Master_IT/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_spi.h:1175:26:LL_SPI_IsEnabledIT_TXE	16	static
+../Src/stm32g0xx_it.c:10:6:SysTick_Handler	8	static
+../Src/stm32g0xx_it.c:15:6:SPI1_IRQHandler	8	static

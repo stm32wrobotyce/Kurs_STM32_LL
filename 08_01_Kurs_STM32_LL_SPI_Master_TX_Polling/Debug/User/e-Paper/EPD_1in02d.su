@@ -1,0 +1,16 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:776:26:LL_GPIO_IsInputPinSet	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_01_Kurs_STM32_LL_SPI_Master_TX_Polling/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../User/e-Paper/EPD_1in02d.c:86:13:EPD_1IN02_Reset	8	static
+../User/e-Paper/EPD_1in02d.c:102:13:EPD_1IN02_SendCommand	16	static
+../User/e-Paper/EPD_1in02d.c:116:13:EPD_1IN02_SendData	16	static
+../User/e-Paper/EPD_1in02d.c:127:6:EPD_1IN02_SetFulltReg	16	static
+../User/e-Paper/EPD_1in02d.c:142:6:EPD_1IN02_SetPartReg	16	static
+../User/e-Paper/EPD_1in02d.c:159:6:EPD_1IN02_WaitUntilIdle	16	static
+../User/e-Paper/EPD_1in02d.c:176:6:EPD_1IN02_TurnOnDisplay	8	static
+../User/e-Paper/EPD_1in02d.c:190:7:EPD_1IN02_Init	8	static
+../User/e-Paper/EPD_1in02d.c:240:6:EPD_1IN02_Part_Init	8	static
+../User/e-Paper/EPD_1in02d.c:287:6:EPD_1IN02_Clear	16	static
+../User/e-Paper/EPD_1in02d.c:308:6:EPD_1IN02_Display	40	static
+../User/e-Paper/EPD_1in02d.c:337:6:EPD_1IN02_DisplayPartial	40	static
+../User/e-Paper/EPD_1in02d.c:374:6:EPD_1IN02_Sleep	8	static

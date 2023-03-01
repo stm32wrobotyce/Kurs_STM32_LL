@@ -1,0 +1,15 @@
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1343:22:LL_RCC_HSI_Enable	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1363:26:LL_RCC_HSI_IsReady	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1684:22:LL_RCC_SetSysClkSource	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1699:26:LL_RCC_GetSysClkSource	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1719:22:LL_RCC_SetAHBPrescaler	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:1735:22:LL_RCC_SetAPB1Prescaler	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:2508:22:LL_RCC_PLL_Enable	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:2529:26:LL_RCC_PLL_IsReady	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:2566:22:LL_RCC_PLL_ConfigDomain_SYS	24	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_rcc.h:3433:22:LL_RCC_PLL_EnableDomain_SYS	8	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_system.h:1972:22:LL_FLASH_SetLatency	16	static
+D:/STM32_Workspace_Kurs_Low_Layer/08_03_Kurs_STM32_LL_SPI_Master_DMA/Drivers/STM32G0xx_LL_Driver/Inc/stm32g0xx_ll_cortex.h:257:22:LL_SYSTICK_EnableIT	8	static
+../Src/main.c:45:5:main	16	static
+../Src/main.c:77:6:rcc_init	8	static
+../Src/main.c:105:6:spi_transfer_cplt_callback	16	static
